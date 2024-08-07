@@ -30,7 +30,7 @@ class AssistantService:
             tool_choice="auto"
         )
 
-        # Add the assistant response to the discussion   
+        # Add the assistant response to the discussio 
         self.discussion.append(ai_response.choices[0].message)
 
         # Check if there is a tool call in the response
