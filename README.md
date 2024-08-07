@@ -1,7 +1,3 @@
-# Mistral AI Assistant with Flask
-
-This project is an example of how to integrate Mistral AI Function Calling API (Assistant) with a Flask web application.
-
 ### Installation
 
 1. Clone the repository:
