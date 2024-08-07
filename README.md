@@ -42,7 +42,3 @@ Here is an example of how to use this Flask project to integrate Mistral AI Assi
 ### Documentation
 
 Mistral AI Assistant API Reference can be found here: https://docs.mistral.ai/guides/function-calling/
-
-### Contributors
-
-This repo is provided by [Jean-Charles Risch](https://www.linkedin.com/in/jean-charles-risch/)
