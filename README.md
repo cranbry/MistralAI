@@ -35,10 +35,6 @@ To run the Flask web application, use the following command:
     flask run
     ```
 
-### Example
-
-Here is an example of how to use this Flask project to integrate Mistral AI Assistant API:
-
 ### Documentation
 
 Mistral AI Assistant API Reference can be found here: https://docs.mistral.ai/guides/function-calling/
